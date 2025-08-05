@@ -1,0 +1,21 @@
+Institution,Course Number,Launch Date,Course Title,Instructors,Course Subject,Year,Honor Code Certificates,Participants (Course Content Accessed),Audited (> 50% Course Content Accessed),% Certified of > 50% Course Content Accessed,% Played Video,% Posted in Forum,% Grade Higher Than Zero,Total Course Hours (Thousands),Median Hours for Certification,Median Age,% Male,% Female,% Bachelor's Degree or Higher
+IIT Bombay,CS101,2019-01-10,Introduction to Programming,Dr. Ravi Kumar,Computer Science,2019,15000,110000,70000,0.18,0.82,0.2,0.75,120,38,22,70,30,85
+IIT Delhi,EE201,2018-07-15,Signals and Systems,Dr. Anjali Singh,Electrical Engineering,2018,13000,90000,60000,0.15,0.78,0.18,0.68,100,35,24,75,25,80
+IIT Madras,ME301,2020-03-05,Thermodynamics Basics,Prof. Suresh Rao,Mechanical Engineering,2020,10000,80000,50000,0.12,0.7,0.15,0.6,90,30,27,80,20,75
+IIT Kharagpur,CE401,2021-09-20,Structural Analysis,Dr. Meera Iyer,Civil Engineering,2021,11000,85000,55000,0.14,0.72,0.17,0.62,95,32,28,65,35,78
+IIT Kanpur,CS102,2017-11-30,Data Structures,Dr. Vikram Patel,Computer Science,2017,18000,130000,90000,0.2,0.85,0.25,0.8,150,40,23,68,32,83
+IIT Hyderabad,AI501,2022-05-10,Introduction to AI,Dr. Priya Sharma,Artificial Intelligence,2022,20000,140000,100000,0.22,0.88,0.3,0.85,180,45,25,70,30,86
+IIT Roorkee,CE402,2019-08-25,Geotechnical Engineering,Prof. Ramesh Singh,Civil Engineering,2019,9000,75000,47000,0.13,0.68,0.16,0.58,80,28,29,60,40,72
+IIT Guwahati,EE202,2020-12-15,Digital Electronics,Dr. Sunita Das,Electrical Engineering,2020,14000,110000,70000,0.17,0.8,0.22,0.7,130,38,26,67,33,80
+IIT Bombay,CS103,2021-03-12,Algorithms,Dr. Amit Joshi,Computer Science,2021,17000,125000,85000,0.19,0.84,0.24,0.78,145,42,24,69,31,85
+IIT Delhi,ME302,2018-06-22,Fluid Mechanics,Prof. Neha Verma,Mechanical Engineering,2018,12000,95000,60000,0.16,0.76,0.2,0.65,110,35,27,66,34,77
+IIT Madras,CS104,2019-09-30,Operating Systems,Dr. Rajesh Nair,Computer Science,2019,16000,120000,80000,0.18,0.82,0.23,0.72,140,40,22,65,35,82
+IIT Kharagpur,EE203,2020-01-18,Power Systems,Dr. Kavita Gupta,Electrical Engineering,2020,13000,90000,57000,0.14,0.7,0.18,0.6,100,33,28,68,32,79
+IIT Kanpur,CS105,2021-07-20,Machine Learning Basics,Prof. Deepak Kumar,Computer Science,2021,21000,150000,110000,0.23,0.89,0.32,0.85,190,48,25,70,30,88
+IIT Hyderabad,CE403,2018-11-10,Transportation Engineering,Dr. Anil Kumar,Civil Engineering,2018,9500,77000,50000,0.13,0.67,0.15,0.55,85,30,29,62,38,74
+IIT Roorkee,ME303,2022-02-14,Manufacturing Processes,Prof. Neeraj Singh,Mechanical Engineering,2022,10500,83000,54000,0.15,0.71,0.17,0.58,90,33,26,65,35,77
+IIT Guwahati,CS106,2023-05-21,Deep Learning,Dr. Kavya Rao,Computer Science,2023,22000,160000,120000,0.25,0.9,0.35,0.88,200,50,23,68,32,89
+IIT Bombay,EE204,2017-04-18,Control Systems,Dr. Sanjay Kulkarni,Electrical Engineering,2017,12500,100000,65000,0.16,0.75,0.2,0.65,110,34,27,67,33,78
+IIT Delhi,CS107,2019-12-05,Database Systems,Prof. Ritu Sharma,Computer Science,2019,18000,130000,90000,0.2,0.83,0.25,0.75,150,42,24,69,31,83
+IIT Madras,CE404,2020-10-30,Environmental Engineering,Dr. Pooja Mehta,Civil Engineering,2020,10000,85000,54000,0.14,0.7,0.18,0.6,95,33,28,64,36,76
+IIT Kharagpur,ME304,2021-06-12,Thermal Engineering,Prof. Arun Das,Mechanical Engineering,2021,11500,90000,58000,0.15,0.72,0.19,0.63,100,35,27,66,34,79
